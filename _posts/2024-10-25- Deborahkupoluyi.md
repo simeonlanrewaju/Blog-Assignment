@@ -2,7 +2,8 @@ layout: post
 title: "CANADIAN PLATEAU WOMEN AND BIRCHBACK BASKET."
 
 The focus of this blog is how the birchbark basket is not only used has a practical object but also a spiritual material in the Canadian Plateau. The blog described the Birchbark basket, its role in the ritual of burial and transition of female child to adulthood, and how the authority of women is depicted in its use. 
- ##image
+
+
  ![image](https://github.com/user-attachments/assets/3a2f9b96-2a46-41d5-bab4-e1f29fe716b3)
 
  (Croft and Mathewes,2013,birchbasket photograph p.101)
