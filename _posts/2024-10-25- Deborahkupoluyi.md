@@ -17,5 +17,5 @@ Conclusively, the birchbark basket in the Canadian Plateau community is more tha
 
 Bibliography
 
-Croft, Shannon, and Rolf W. Mathewes. "Barking up the right tree: Understanding birch bark artifacts from the Canadian Plateau, British Columbia." BC Studies: The British Columbian Quarterly 180 (2013): 83-122.
+Croft, Shannon, and Rolf W. Mathewes. "Barking up the right tree: Understanding birch bark artifacts from the Canadian Plateau, British Columbia." BC Studies: The British Columbian Quarterly 180 (2013): 83-122.DOI: https://doi.org/10.14288/bcs.v0i180.184165.
 
