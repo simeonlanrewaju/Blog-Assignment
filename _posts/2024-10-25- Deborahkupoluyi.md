@@ -1,10 +1,10 @@
 layout: post
 title: "CANADIAN PLATEAU WOMEN AND BIRCHBACK BASKET."
 
-#CANADIAN PLATEAU WOMEN AND BIRCHBACK BASKET.
-
 The focus of this blog is how the birchbark basket is not only used has a practical object but also a spiritual material in the Canadian Plateau. The blog described the Birchbark basket, its role in the ritual of burial and transition of female child to adulthood, and how the authority of women is depicted in its use. 
- 
+ ##image
+ ![image](https://github.com/user-attachments/assets/3a2f9b96-2a46-41d5-bab4-e1f29fe716b3)
+
  (Croft and Mathewes,2013,birchbasket photograph p.101)
 
 The birchbark basket is a sacred and practical object that carries deep spiritual and cultural significance within the Canadian Plateau women community, traditionally crafted from the bark of the birch tree and made by women. The birchbark basket is more than just a utilitarian object; it is imbued with spiritual meaning as it plays a crucial role in religious practices and rituals. The techniques of making birch bark basketry were learned and passed on from one generation of women to the next (Croft and Mathewes,2013, p.100), I think it is essential to teach these skills to their generation because the process of making a basket requires both physical and spiritual knowledge as it requires both practical skill and spiritual knowledge.
