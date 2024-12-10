@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            "Negotiating Faith and Gender: Women’s Roles in Early Christianity."
-tagline:          ''
+title:            "Negotiating Faith and Gender:"
+tagline:          'Women’s Roles in Early Christianity'
 description:      ''
 url:              https://simeonlanrewaju.github.io/Blog-Assignment/
 baseurl:          '/Blog-Assignment/'
