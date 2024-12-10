@@ -7,7 +7,7 @@ As many of us might know about early Christianity regarding the apostles such as
 
 # Women as Leaders and Teachers
 ![alt text](https://photos1.blogger.com/blogger/5690/310/320/a-349.jpg "Lydia of Thyatira")
-![alt text](https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20220309230336_083c8324f4ed9c185882e47e01191e0c9cfdcb6f1c25a03c30366087ed753b21.webp "Aquila (Left) and Priscilla(right)")
+<img src="(https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20220309230336_083c8324f4ed9c185882e47e01191e0c9cfdcb6f1c25a03c30366087ed753b21.webp)" alt="Aquila (Left) and Priscilla(right)" width="200"/>
 
 Take Priscilla, for example. she was not merely attending the early church; she was teaching others, among which was one Apostle Apollos. Unbelievable, but when her name appears in the Bible, her identifier mentions her name before her husband, which is unusual in a culture where women are expected to remain voiceless.  Lydia of Thyatira is a businesswoman selling purple cloth, which was a material which was considered an upgrade in those days. As one of the first hosts of a church community, she used her resources to fund Christian assemblies in her house to teach the word from the bible to others who wanted to learn more. These women were not merely assisting; they led openly in ways that departed from the culture of the time. These women had a strong resolution about the fact that leadership doesn’t always come in the package defined by conventional norms. That is why the examples of Priscilla’s influence on teaching and Lydia’s support financially prove that influence can be received in the format of an idea, money, or faith.
 
